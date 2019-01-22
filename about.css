@@ -1,0 +1,9 @@
+.about-bg {
+	background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.3)), url("image/balustrade2.jpg");
+	padding: 80px;
+	color: white;
+}
+
+.about-bg h2 {
+	margin-top: 30px;
+}

@@ -1,0 +1,99 @@
+.carousel-inner img {
+  width: 100%; /* Set width to 100% */
+  margin: auto;
+/*   min-height: 200px;  */
+  max-height: 1000px;
+  }
+
+  .wow {
+  visibility: hidden;
+}
+
+  .bg-1 { 
+    background-color: #474e5d;
+    color: #ffffff;
+  }
+
+  .bg-2 {
+  	background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.3)), url("image/background1.jpg");
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	opacity: .7;
+  }
+
+  .footer {
+  	background: rgb(0, 1, 0);
+  	padding-top: 80px;
+  	padding-bottom: 80px;
+  }
+
+   .container-fluid-dimension {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+
+  .card {
+  	padding-top: 70px;
+  	padding-bottom: 70px;
+  	padding-right: 50px;
+    padding-left: 50px;
+    max-width: 700px;
+    min-width: 450px;
+  }
+
+  .card-title {
+  	color: black;
+  }
+
+  .panel-body {
+  	height: 80%;
+  	width: 80%;
+  }
+
+.top-product-section {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.section-title {
+	text-align: center;
+}
+
+.card {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
+
+.btn-outline-primary {
+	color: #03396c;
+  background-color: transparent;
+  border-color: #03396c;
+  border-width: 3px;
+}
+
+.btn-outline-primary:hover {
+	color: #ffffff;
+	background-color: #03396c;
+}
+
+.footer-icon-group {
+	float: left;
+	padding-top: 30px
+}
+
+.footer-icon {
+	margin-right: 5px;
+	margin-left: 5px;
+	float: right;
+}
+
+.all {
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.last-products-img {
+  max-width: 100%;
+}
